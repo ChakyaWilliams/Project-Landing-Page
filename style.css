@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    height: 100vh;
+    margin: 0;
+    font-family: Roboto, sans-serif;
+
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 350px;
+    padding-right: 350px;
+
+}
+
+.header-hero-wrapper { 
+    background-color: #1F2937;
+    padding-bottom: 20px;
+}
+
+h1 {
+    color: white;
+    font-size: 48px;
+    font-weight: 900;
+    width: 400px;
+    margin-bottom: 0px;
+    
+   
+}
+
+.hero-text {
+    color: #E5E7EB;
+    font-size: 18px;
+    width: 400px;
+    
+
+}
+
+button {
+    font-family: Roboto, sans-serif;
+    border: black;
+    border-radius: 7px;
+    background: #3882f6;
+    color: white;
+    font-weight: bold;
+    font-weight: 60px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+   
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px
+}
+
+.hero {
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.hero-card {
+    align-self: center;
+    margin-right: 20px;
+}
+
+.hero-image {
+    margin-top: 40px;
+}
+
+/* img goes here */
+
+
+
+
+
+
+
+
